@@ -1,0 +1,21 @@
+---
+title: "MedGemma: install and test"
+subtitle: ""
+author:
+  - name: Бушуков Эмир
+    orcid: 0009-0008-0877-2060
+date: 2026-10-08
+categories: [medgemma, gpu]
+slug: medgemma-install-and-test
+draft: true
+image: media/cover.png
+---
+
+<!-- Локальные файлы статьи лежат рядом: media/ -->
+<!-- Пример: ![screenshot](media/screenshot.png) -->
+
+## Install
+
+## Test
+
+## Summary

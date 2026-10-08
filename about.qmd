@@ -1,0 +1,10 @@
+---
+title: "About"
+author:
+  name: Бушуков Эмир
+  orcid: 0009-0008-0877-2060
+---
+
+Short description of the author and this site.
+
+ORCID: [0009-0008-0877-2060](https://orcid.org/0009-0008-0877-2060)

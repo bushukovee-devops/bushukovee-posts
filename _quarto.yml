@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "bushukovee posts"
+  site-url: https://bushukovee-devops.github.io/bushukovee-posts/
+  repo-url: https://github.com/bushukovee/bushukovee-posts
+  repo-branch: main
+  repo-actions: [edit, source]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Posts
+      - about.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+
+editor: source
