@@ -33,5 +33,5 @@ quarto render
 
 ## Публикация
 
-Push в `main` → GitHub Actions (`quarto render` → deploy в Pages).
+Push в `master` → GitHub Actions (`quarto render` → deploy в Pages).
 В настройках репозитория: Settings → Pages → Source: **GitHub Actions**.

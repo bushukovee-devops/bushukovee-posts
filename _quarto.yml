@@ -6,7 +6,7 @@ website:
   title: "bushukovee posts"
   site-url: https://bushukovee-devops.github.io/bushukovee-posts/
   repo-url: https://github.com/bushukovee/bushukovee-posts
-  repo-branch: main
+  repo-branch: master
   repo-actions: [edit, source]
   navbar:
     left:
